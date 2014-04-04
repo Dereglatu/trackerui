@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------
-======= svXtream Counter Strike 1.6 Cleaner =========
+======= Spkcs.com Counter Strike 1.6 Cleaner =========
 ------------------------------------------------------------------------------
 
 If you see this file, there is a serious vulnerability in your Counter-Strike client.
