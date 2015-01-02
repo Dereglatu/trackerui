@@ -1,0 +1,12 @@
+de_spoc - Defusion
+by Gua (gua@ukr.net)
+
+Counter-Terrorists:  Prevent terrorist from planting the C4.
+
+Terrorists:  Plant C4, or eliminate
+the Counter-Terrorists.
+
+Other Notes: There are 2 bomb points in this map.
+
+Special Thanks: KRAVA, Slider, ZloY, Marc Schroeder
+masayk, $@nchezzz, BuZZeR, TRUP@K, 3d-Mike, FoXeR 

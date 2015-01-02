@@ -1,0 +1,14 @@
+// overview description file for de_REALmansion4_snow.bsp
+
+global 
+{
+	ZOOM	4.34
+	ORIGIN	-98.09 	314.81	-784
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_REALmansion4_snow.bmp"
+	HEIGHT	-784
+}

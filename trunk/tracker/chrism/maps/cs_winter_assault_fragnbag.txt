@@ -1,0 +1,25 @@
+
+cs_winter_assault_fragnbag
+==========================
+
+Pillaged by [FnB] RuudVanPistolrooy aka JamesL
+
+
+This is a filthy rip off of [UPC] Psykoman's assault_UPC. I decompiled it, added in a bunch of new routes, fixed all the screwed up brushes and retextured the whole map with stuff stolen from half a dozen other cs maps. Yeah its a filthy rip but hey it was made in about 6 hours and was never intended to be a test of mapping skill(z) beyond bug fixing, rather it was simply something to make my clanmates happy over xmas.
+
+
+This map has been made for the fragnbag.com servers and has 32 spawn points. It is best played with the matrix jumping mod enabled.
+
+
+
+Terrs guard hossies, kill CTs
+
+
+CT's rescue hossies, kill Terrs
+
+
+
+www.fragnbag.com  --  Clansite & servers
+www.code303.com  --  Portfolio
+www.mapcore.net  --  We are many
+www.lanmaniaX.com  --  Only the finest maps

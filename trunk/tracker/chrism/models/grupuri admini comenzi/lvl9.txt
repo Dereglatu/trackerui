@@ -1,0 +1,22 @@
+1. amx_slay <nume> - il omori
+2. amx_slap <nume> <dmg> - il dai de pereti cu sau fara dmg
+3. amx_nick <nume> <nume nou> - ii schimbi numele in ce nume vrei tu
+4. amx_name <nume> - ii schimbi numele in alt_nume
+5. amx_chat <mesaj> - doar adminii vad = chatul adminilor
+6. amx_say <mesaj> - arata mesaj chat
+7. amx_psay <nume> <mesaj> - arata mesaj privat jucatorului specificat
+8. amx_chat <mesaj> - doar Adminii vad = chatul Adminilo
+9. amx_ssay <mesaj> - in chat fara nume doar mesajul
+10. amx_bsay <mesaj> - verde stralucitor pe centru, fara nume
+11. amx_csay <mesaj> - rosu stralucitor pe centru, cu nume
+12. amx_nsay <mesaj> - albastru stralucitor pe centru, cu nume
+13. amx_msay <mesaj> - galben stralucitor pe centru, cu nume
+14. amx_vsay <mesaj> - alb pe centru, jos cu nume
+15. amx_tsay <mesaj> - stanga, alb cu nume
+16. amx_xsay <mesaj> - mov stralucitor pe centru, cu nume
+17. amx_zsay <mesaj> - verzui-albastrui inchis - stralucitor pe centru, cu nume
+18. amx_help <nr pagina> - arata comenzile serverului (cate 15)
+19. amx_maps <nr pagina> - arata hartile serverului (cate 15)
+20. amx_clean - cureti chatul
+22. amx_move <nume> <1/2/3> - muti fortat un jucator
+23. amx_transfer <nume> - transferi un jucator

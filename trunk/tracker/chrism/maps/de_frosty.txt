@@ -1,0 +1,64 @@
+--------------------------------------------------------
+
+de_frosty - Bomb-Defuse - by *MoroeS*
+
+--------------------------------------------------------
+
+Nous nous trouvons dans une base secrete de 
+l'armée Française. Celle-ci est située dans 
+les Alpes en plein sur le sommet d'une montagne.
+Cette base fait des recherches sur la possibilité de
+transformer les Tanks Terrestres en Tanks Alpins.
+Bien que ce projet semble utopique, un groupe
+de personnes lutant pour la non-prolifération
+des armes en tout genre à déja fait nombre de
+manifestations pour montrer leur désaccord par
+rapport à ce projet! Toutes ont échouées!
+Ils décident donc de passer à l'action avec des moyens
+plus persuasifs! S'introduire dans l'enceinte 
+de cette base lors du test d'incendie...
+
+--------------------------------------------------------
+
+Terrorists: 
+
+Détruisez un des Tanks qui est en train d'être
+désossé et/ou détruisez les réserves de gaz
+servant à la construction de ce prototype.  
+
+--------------------------------------------------------
+
+Counter-Terrorists:  
+
+Protégez les interêts de l'armée Française.
+Ce Tank pourrait être une merveille technologique!
+
+--------------------------------------------------------
+
+Have fun!
+
+--------------------------------------------------------
+
+Special thanks to
+
+-> K-Mi => http://www.k-mi.be.tf
+
+-> all forums users
+
+--------------------------------------------------------
+
+web site => http://www.soremaps.be.tf
+
+e-mail   => mappeur_syrus@yahoo.fr
+
+--------------------------------------------------------
+
+Bugs non résolus :
+
+- problèmes avec le son de l'alarme
+
+- pas sur la neige pas réaliste
+
+--------------------------------------------------------
+
+(Press Fire to Continue)

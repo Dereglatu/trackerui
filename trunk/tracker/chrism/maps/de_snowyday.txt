@@ -1,0 +1,24 @@
+Snowy Day - Bomb Defusing
+by corvalho (corvalho1@gmail.com)
+
+Storyline: Terrorists attacked the cars 
+of the American embassy during a trip to 
+fetch confidential documents. Other 
+cars have arrived to recover the documents 
+and the Counter-Terrorists have been sent 
+to help.
+
+Counter-Terrorists: Protect the embassy cars, 
+prevent the terrorists from bombing them.
+If necessary, eliminate all terrorists.
+
+Terrorists: These docs are about the localization
+of your faction's HQ, and plans of attack. 
+Don't let this docs, fall in Uncle Sam's hands. 
+They were distributed between the two cars. 
+Plant the bomb, near one of the embassy's cars 
+to avoid that all of them arrive at their destination.
+
+Other Notes: 2 cars are stuck there.
+
+

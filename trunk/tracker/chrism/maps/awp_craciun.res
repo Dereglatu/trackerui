@@ -1,0 +1,10 @@
+maps/awp_craciun.bsp
+maps/awp_craciun.res
+deathrun_xmas.wad
+models/awp_craciun/besmegenis.mdl
+gfx/env/arcnbk.tga
+gfx/env/arcndn.tga
+gfx/env/arcnft.tga
+gfx/env/arcnlf.tga
+gfx/env/arcnrt.tga
+gfx/env/arcnup.tga

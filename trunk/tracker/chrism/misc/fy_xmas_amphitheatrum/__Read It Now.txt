@@ -1,0 +1,105 @@
+                                          =fy_xmas_amphitheatrum=
+
+Author: xDDGx
+Notes: This map made when I was boring, so it small simple fun map.
+Games supported: Half-Life (amphitheatrum), Deathmatch Classic (dmc_amphitheatrum), Opposing Force (op4_amphitheatrum), They Hunger (thdm_amphitheatrum), Counter-Strike (fy_amphitheatrum). This archive includes xmas version of fy_amphitheatrum.
+Map contains detail textures (enter to console r_detailtexturessupported 1 and r_detailtextures 1 for activate it).
+Примечание: Данную карту я сделал от скуки, когда мне не хотелось заниматься другими своими картами, так что ничего особенного от неё не ждите. Это небольшая и простенькая арена для мяса и фана, первоначально созданная и выпущенная под Half-Life, с названием amphitheatrum. Далее от нефиг делать я портировал её на Deathmatch Classic (ретекстур, с добавлением погодных эффектов (дождь, гроза, молнии)), Opposing Force (ретекстур), They Hunger (ретекстур), и Counter-Strike (ретекстур, снежок). Данный архив содержит рождественскую/новогоднюю версию fy_amphitheatrum'a.
+Карта содержит детальные текстуры, активируйте их командами  r_detailtexturessupported 1 и r_detailtextures 1.
+Max players: 12
+Recommended number of players: 4-8.
+Build Time: 1 day (original amphitheatrum) + 2 days (porting to CS) + 2 days (xmas version updates)
+Compile Machine: Athlon X2 5000+ (2,6 GHz * 2 core); 2 GB RAM
+Compile Time: > 4 minutes
+HLRAD memory: > 256 MB
+Max r_speeds: ~1400
+Average r_speeds: 800-1200
+BSP size with ALL textures: ~2,7 MB
+BSP size without textures: ~1,3 MB
+
+                               =Differences to original fy_amphitheatrum=
+                                 =Отличия от обычной версии карты=
+
+- xmas decoration, of course (textures from Quake Live);
+- night skybox and lighting;
+- more players spawns (+2T, +2CT);
+- player gets deagle at start; deagle spawns changed by fiveseven;
+- awp replaced by m249;
+- wav, not mp3 music;
+- deleted Half-Life's ambient sounds.
+
+- рождественские декорации (тексы потырены из Quake Live'a);
+- ночной скай и освещение;
+- больше респонов (12 vs 8);
+- игроки получают дигл на старте, по углам валяются файв-сэвэны;
+- вместо снайперки - пулемёт;
+- музыка обычными ambient_generic'aми, не MP3;
+- удалены фоновые выстрелы;
+
+                                        =How to install=
+                                          =Установка=
+
+Extract cstrike folder to your Half-Life folder. Also, you can move gfx/detail to valve/gfx/detail, than other amphitheatrum's versions (for DMC, OF) can get detail textures from valve folders, and you can delete needless cstrike/gfx/detail and dmc/gfx/detail.
+Извлеките папку gearbox в каталог Half-Life'a. Также вы можете переместить каталог gfx/detail в папку valve, чтобы все версии амфитеатрума, да и другие мои карты, могли брать их оттуда и не нужно было копировать их в папку каждого мода.
+
+
+                            =Recommended game parameters=
+                            =Рекомендуемые настройкии игры=
+
+Freeze time: 0
+Time per map: 10-15 minutes
+Allow flashlight
+
+
+                               =Used soft and resources=
+                           =Используемый софт и ресурсы=
+
+--> Programs:
+
+=Mapping=
+Valve Hammer Editor 3.4
+Zoner's Half-Life Tools 3.4
+=Texturing=
+Wally
+PhotoFiltre
+IrfanView
+=Sound=
+Media Player Classic
+=Other=
+GCFScape
+Notepad2
+
+--> Tutorials (on russian only):
+
+http://cs-mapper.by.ru/index.shtml
+http://poligon.cs2.ru/tutorials/hint/
+
+--> Materials:
+
+Counter-Strike
+Quake Live (Winter's Edge textures)
+Half-Life
+Condition Zero
+
+
+                                            =Thanks=
+                                       =Благодарности=
+Valve, Dmitrich! ( http://cs-mapper.by.ru/index.shtml ), and all players!
+
+
+                                           =Copyright=
+                                            =Читай!=
+If you use source rmf-file or some ideas, textures, etc. on your project, please, make mention of author this map (xDDGx).
+Вы можете модифицировать карту, использовать какие-либо её идеи, текстуры и пр. в своих проектах только при ссылке на автора карты (xDDGx).
+
+Благодарю за внимание. Спасибо за каждый фраг, сделанный на этой карте.
+И, кстати - с Новым 2012-ым Годом!
+
+Thank you for downloading this map! Merry Christmas and Happy New Year!
+
+
+P.S. Sorry for my low knowledge of English!
+ЗЫ: Если можете помочь мне с корректировкой инглиша - буду очень благодарен!
+
+
+23 Dec 11

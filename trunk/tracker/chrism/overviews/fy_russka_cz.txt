@@ -1,0 +1,14 @@
+// overview description file for fy_russka_cz.bsp
+
+global 
+{
+	ZOOM	2.33
+	ORIGIN	382.06 	     -328.25	   128.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/fy_russka_cz.bmp"
+	HEIGHT	-321.00
+}

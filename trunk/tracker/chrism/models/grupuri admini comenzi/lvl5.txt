@@ -1,0 +1,56 @@
+1. amx_slay <nume> - il omori
+2. amx_slap <nume> <dmg> - il dai de pereti cu sau fara dmg
+3. amx_nick <nume> <nume nou> - ii schimbi numele in ce nume vrei tu
+4. amx_name <nume> - ii schimbi numele in alt_nume
+5. amx_chat <mesaj> - doar adminii vad = chatul adminilor
+6. amx_say <mesaj> - arata mesaj chat
+7. amx_psay <nume> <mesaj> - arata mesaj privat jucatorului specificat
+8. amx_chat <mesaj> - doar Adminii vad = chatul Adminilo
+9. amx_ssay <mesaj> - in chat fara nume doar mesajul
+10. amx_bsay <mesaj> - verde stralucitor pe centru, fara nume
+11. amx_csay <mesaj> - rosu stralucitor pe centru, cu nume
+12. amx_nsay <mesaj> - albastru stralucitor pe centru, cu nume
+13. amx_msay <mesaj> - galben stralucitor pe centru, cu nume
+14. amx_vsay <mesaj> - alb pe centru, jos cu nume
+15. amx_tsay <mesaj> - stanga, alb cu nume
+16. amx_xsay <mesaj> - mov stralucitor pe centru, cu nume
+17. amx_zsay <mesaj> - verzui-albastrui inchis - stralucitor pe centru, cu nume
+18. amx_help <nr pagina> - arata comenzile serverului (cate 15)
+19. amx_maps <nr pagina> - arata hartile serverului (cate 15)
+20. amx_clean - cureti chatul
+21. amx_rr <secunde> - dai restart in cate secunde vrei
+22. amx_move <nume> <1/2/3> - muti fortat un jucator
+23. amx_transfer <nume> - transferi un jucator
+24. amx_kick <nume> - il dai afara
+25. amx_llama <nume> - dai llama unui jucator
+26. amx_unllama <nume> - scoti llama unui jucator care are llama
+27. amx_injura <nume> - il injura o femeie (voce)
+28. amx_codat <nume> - sperii codatul (voce+motd+mesaj)
+29. amx_idiot <nume> - il faci idiot (voce+mesaj)
+30. amx_last - arata ultimii 15 jucatori desconectati + ip-urile lor
+31. amx_gag <nume> <minute> <motiv> - dai gag unui jucator
+32. amx_ungag <nume> - ii scoti gag-ul
+33. amx_ss <nume> - faci 3 poze unui jucator + il muti spec
+34. amx_tban <nume> <minute> <motiv> - ii dai ban temporar
+35. amx_tbanip <ip> <minute> <motiv> - ban temporar pe ip
+36. amx_vmap <harta> <harta> <harta> <harta> - dai la vot 1 sau 4 harti
+37. amx_votemap <harta> <harta> <harta> <harta> - dai la vot 1 sau 4 harti
+38. amx_cancel - anulezi ultimul vot
+39. amx_ban <nume,ip> <timp> <motiv> - banezi un jucator
+40. amx_unban <ip> - scoti banul unui jucator
+41. amx_banip <nume,ip> <timp> <motiv> - banezi un jucator
+42. amx_addban <ip> <minute> <motiv> - adaugi un jucator la lista de banuri
+43. amx_demo <nume> - faci demo unui jucator fara sa stie
+44. amx_stopdemo <nume> - opresti demo-ul pornit pe un anumit jucator
+45. amx_slapteam <1/2> <dmg> - dai slap la 1 echipa
+46. amx_slayteam <1/2> - omori 1 echipa
+47. amx_flash <nume> - dai blind unui jucator pentru 10 secunde
+48. amx_map <harta> - schimbi harta
+49. amx_bans <nume> <timp> - ban config - ptr cei cu ip dinamic
+50. amx_bad <nume> - Ii strici cs-ul unui jucator
+51. amx_restmenu - arata meniul pentru restrictionarea armelor
+52. amx_restrict - meniu de ajutor pentru restrictionarea armelor
+
+
+
+

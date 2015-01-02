@@ -1,0 +1,10 @@
+maps/cs_nome.bsp
+maps/cs_nome.res
+maps/cs_nome.txt
+sprites/snow.spr
+gfx/env/snow2bk.tga
+gfx/env/snow2dn.tga
+gfx/env/snow2ft.tga
+gfx/env/snow2lf.tga
+gfx/env/snow2rt.tga
+gfx/env/snow2up.tga

@@ -1,0 +1,15 @@
+// overview description file for de_snowville.bsp
+
+global 
+{
+ZOOM 1.20
+ORIGIN -1474.25 -183.90 32
+ROTATED 0
+}
+
+layer 
+{
+IMAGE "overviews/de_snowville.bmp"
+HEIGHT -591
+}
+

@@ -1,0 +1,35 @@
+DE_COLDFIGHT - BOMB/DEFUSION
+By Canny
+(canny@f2s.com)
+www.adp-clan.de
+
+Textures by Linga (www.levelediting.de)
+diggedagg (www.diggedagg.de.vu/).
+and of the official Max Payne textureset
+(www.remedy.fi). All textures are 
+property of their owners and may 
+not be used for commercial projects.
+
+
+-Terrorists:
+Destroy the snowplowoffice or bomb 
+the garage with the snowplows in it.
+
+-Counter-Terrorists:
+Prevent the terrorists from bombing.
+
+Storyline:
+It's december, a blizzard crossed a 
+part of NY, which has one of the main
+roads to downtown. The Terrorists 
+want to destroy the snowplowoffice,
+to make broaching the streets
+impossible and make the town 
+incommudicado.
+
+
+Other Notes: There are two bomb targets
+in the map.
+
+
+(Press FIRE to continue)

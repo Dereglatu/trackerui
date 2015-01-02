@@ -1,0 +1,14 @@
+// overview description file for de_lori.bsp
+
+global 
+{
+	ZOOM	1.43
+	ORIGIN	299.17 -191.17 -32
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_lori.bmp"
+	HEIGHT	-32
+}

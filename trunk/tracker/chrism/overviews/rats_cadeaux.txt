@@ -1,0 +1,13 @@
+//fichier de description de l'overview de la map rats_cadeaux par Blacknight
+
+global
+{
+	ZOOM     5.20
+	ORIGIN   257.95   -376.22   344.00
+	ROTATED  0
+}
+layer
+{
+	IMAGE    "overviews/rats_cadeaux.bmp"
+	HEIGHT   -1.00
+}
