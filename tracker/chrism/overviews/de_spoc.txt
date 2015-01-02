@@ -1,0 +1,14 @@
+// overview сделал Кравец Евгений (KRAVA) 
+
+global 
+{
+	ZOOM	1.59
+	ORIGIN	378.27 	-29.39	-280.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_spoc.bmp"
+	HEIGHT	-257.00
+}

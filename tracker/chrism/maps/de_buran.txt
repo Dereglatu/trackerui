@@ -1,0 +1,24 @@
+de_buran - Bomb/Defuse
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the warehouse or the builing
+at the railroads or kill all terrors.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the targets.
+Alternatively your Team has toor eliminate 
+all counters.
+
+Good luck!
+__
+
+Map by Triton
+http://www.triton.ch.vu
+http://www.silizium-net.de
+
+
+Other Note:
+If you like to hear material-sounds, add
+the content of materials-de_buran.txt
+to your materials.txt (located in 
+cstrike/sounds/materials.txt).

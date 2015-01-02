@@ -1,0 +1,22 @@
+// Detail textures for fy_xmas_amphitheatrum. Thanks to Valve and CZ developers for this technology!
+// [texture name]	[detail texture name]		[hscale]	[vscale]
+
+snow_rockcliff4      detail/dt_snow1               10            10
+-0Rock                  detail/dt_ground5             5              5
+-1Rock                  detail/dt_ground5             5              5
+-2Rock                  detail/dt_ground5             5              5
+-3Rock                  detail/dt_ground5             5              5
+snow                     detail/dt_snow2              10            10
+{hq_bush               detail/dt_snow2               10           10
+OUT_SND2            detail/dt_ground3            7.5           7.5
+duwll_sndstn          detail/dt_brick                10            10
+podarki                  detail/dt_smooth1           10            10
+{bantichek              detail/dt_smooth1           10            10
+tk_woodbrd             detail/dt_wood1			  10	       	 10
+beddoor                detail/dt_wood1                2.5        5
+museumflr1          detail/dt_carpet1              2.5      2.5
+cxbrcka		    	detail/dt_stone1	        	10		10
+cxbrckc		    	detail/dt_stone1	        	10		10
+{curaila                 detail/dt_metal1	        	10		10
+cxwoodi		    	detail/dt_wood1		    	10		10
+hq_glass                detail/dt_ssteel1           5            5

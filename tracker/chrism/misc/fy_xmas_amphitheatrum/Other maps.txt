@@ -1,0 +1,51 @@
+I made some Counter-Strike maps:
+
+hq_firstblood - my first realy proffesional worked map. Half-Quake style. Versions to Half-Life, Counter-Strike and Half-Quake.
+de_4radrounds - Half-Life style, but used detail textures. Battle in radioactive complex. Really radioactive!
+aim_glock_HQ - chateau style, small and nice map for glock training. Uses detail textures.
+aim_usp_HQ - oilrig style, another nice training map which uses detail textures.
+aim_p228_HQ - de_sienna_cz textures, another aim training arena.
+aim_deagle_HQ - aztec textures, deagle training.
+dm_orujeyna - T and CT confronts in the building, that contain much weapons... But can you run to weapons faster than be killed of glock/usp?
+hq_quake3 - black&white Quake 3 style, design, sound and gameplay like Quake 3 TDM (jumpads, weapons on the ground, animated textures, MP3 music).
+fy_amphitheatrum - small arena for fun, also exist Half-Life (amphitheatrum), Deathmatch Classic (dmc_amphitheatrum), Opposing Force (op4_amphitheatrum) and They Hunger (thdm_amphitheatrum) versions.
+
+And Half-Life Deathmatch maps
+xenbox - arena some like killbox, but has more compound geometry, Xen design, detail textures. Recommended for gauss-jumpers!
+d1_trainstation_highres_arena - map uses high resolution textures from Half-Life 2.
+
+All my released maps you can find on this page: http://www.gamebanana.com/members/submissions/maps/881089
+
+Worst works:
+ak_colt_HQ - simple remake of aim_ak-colt with high quality textures and more detalised brushwork. But don't used detail textures =(
+
+Work in progress:
+hq_dieisland - another map in Half-Quake style.
+cs_orujeyna - cs_ version of dm_orujeyna, planed some retexturing, more compound brushwork.
+aim_knifeVSpistol - Ts spawns with knives and smoke grenades, CTs have pistols. Fighting goes in tight corridors, so Ts have good chance to win.
+dm_wintersedge - remake of Quake Live's Winter's Edge holiday map for Half-Life 2 Deathmatch.
+dm_theedge & hldm_shovq2dm1 - remakes of q2dm1 for Half-Life 1 Deathmatch.
+
+
+Latest versions: below you can see list of latest versions of my maps. Be sure, that you have a newer version! Latest editions of my maps you can find here: http://www.gamebanana.com/members/submissions/maps/881089
+Последние версии всех моих карт перечислены здесь. Вы можете найти их все по ссылке чуть выше.
+
+=Counter-Strike=
+aim_deagle_HQ v. 1.0
+aim_glock_HQ v. 1.2
+aim_p228_HQ v. 1.0
+aim_usp_HQ v. 1.1
+de_4radrounds v. 1.0.2
+dm_orujeyna v. 1.1
+fy_amphitheatrum v. 1.0
+hq_firstblood v. 0.3.1
+hq_quake3 v. 1.0
+=Half-Life=
+amphitheatrum v. 1.1
+d1_trainstation_highres_arena v. 0
+hq_firstblood v. 0.3.1
+xenbox v. 0.2
+=Other=
+dmc_amphitheatrum v. 1.0.1
+op4_amphitheatrum v. 1.0
+thdm_amphitheatrum v. 1.0

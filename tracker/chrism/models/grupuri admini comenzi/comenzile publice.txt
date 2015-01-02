@@ -1,0 +1,17 @@
+say currentmap - arata harta curenta
+say nextmap - arata urmatoarea harta doar daca a fost vot!
+say thetime - arata ceas/data
+say timeleft - arata timpul ramas
+say /prevmaps - vezi ultimele 10 harti jucate 
+say /rank - vezi in chat info pe ce loc esti, etc .
+say /top15 - vezi cei mai buni 15 jucatori de pe server
+say /harti - vezi hartile serverului
+
+say_team currentmap - arata harta curenta
+say_team nextmap - arata urmatoarea harta doar daca a fost vot!
+say_team thetime - arata ceas/data
+say_team timeleft - arata timpul ramas
+say_team prevmaps - vezi ultimele 10 harti jucate 
+say_team /rank - vezi in chat info pe ce loc esti, etc .
+say_team /top15 - vezi cei mai buni 15 jucatori de pe server
+say_team /harti - vezi hartile serverului

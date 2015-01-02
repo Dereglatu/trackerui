@@ -1,0 +1,17 @@
+cs_nome - HOSTAGE RESCUE
+By: Steven C. Sutliff a.k.a. ~Snow~Man~
+
+MISSION OBJECTIVES:
+
+Counter-Terrorists: 
+There are 4 hostages in the mission.
+Rescue them or Eliminate all Terrorists
+
+Terrorists:
+Eliminate the Counter-Terrorist
+force before they rescue any hostages.
+
+Other Notes: There are 4 hostages in 
+the mission. 
+
+(Press FIRE to continue)

@@ -1,0 +1,20 @@
+Mapping by:
+Rooka (www.rooka.net , info@rooka-design.de)
+Textures/Graphics by:
+Rooka, DrDK, Backslider, Valve software, 3dMike and [00]Madness
+Models by:
+TheDoenerKing and Valve software
+Sprites by:
+Rooka and Valve software
+Overview by:
+Crow
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the hotel or the supermarket.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy the hotel or the supermarket.
+
+(Press FIRE to continue)

@@ -1,0 +1,14 @@
+// overview description file for de_jinglebells.bsp
+
+global 
+{
+	ZOOM	0.69
+	ORIGIN	-16	0 -336
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_jinglebells.bmp"
+	HEIGHT	-336
+}

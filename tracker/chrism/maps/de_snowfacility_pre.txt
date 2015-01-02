@@ -1,0 +1,21 @@
+de_snowfacility    pre-final!
+---------------
+
+map, models and textures made by 
+Stefan Heinrich aka Sklaventreiber
+(StefanHeinrich@web.de)
+
+Mission Briefing
+================
+
+Situation:
+A former terroristic attack was stopped by the Counter-Terrorist team.
+The Terrorists managed to infiltrate the High Secret Weapon Factory with the intention to blow up the main bridge.
+Just as they have planted some T.N.T on the bridge and where ready to set it off they were eliminated by the Counter-Terrorists.
+
+Terrorists:
+You are the Backup Team. The T.N.T is still in place, you just have to plant your little bomb pack in the middle and finish this.
+Alternatively you can blow up barrels containing radioactive material stored in the container room to contaminate the whole place.
+
+Counter-Terrorists:
+Just stop them like you stopped the others.

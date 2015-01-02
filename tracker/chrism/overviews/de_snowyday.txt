@@ -1,0 +1,12 @@
+// overview description file for de_snowyday.bsp
+ global
+ {
+ ZOOM 1.41
+ ORIGIN 188.50 655.50 -219.00
+ ROTATED 1
+ }
+ layer
+ {
+ IMAGE “overviews/de_snowyday.bmp”
+ HEIGHT 0
+ } 

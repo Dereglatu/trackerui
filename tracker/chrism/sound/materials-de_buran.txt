@@ -1,0 +1,36 @@
+//-----------------------------------------------------------
+//            Counter-Strike
+//-----------------------------------------------------------
+//
+// Copy the content of de_buran in your materials.txt
+//
+//  'M' metal
+//  'V' ventillation
+//  'D' dirt
+//  'S' slosh liquid 
+//  'T' tile
+//  'G' grate (Concrete is the default)
+//  'W' wood
+//  'P' computer
+//  'Y' glass
+//  'N' snow
+
+
+// DE_BURAN
+M v_fass1
+M v_fass2
+M v_metall
+M v_metall2
+M v_rost
+M v_zug1
+M v_zug2
+M v_zug3
+M v_zug4
+M v_zug5
+M v_zug6
+W v_kiste
+W v_kiste2
+N v_schneeboden
+N v_schneeboden2
+N v_schneeboden3
+D v_boden

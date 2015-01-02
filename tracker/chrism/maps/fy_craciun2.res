@@ -1,0 +1,10 @@
+maps/fy_craciun2.bsp
+maps/fy_craciun2.res
+deathrun_xmas.wad
+models/fy_craciun/tree3.mdl
+gfx/env/arcnbk.tga
+gfx/env/arcndn.tga
+gfx/env/arcnft.tga
+gfx/env/arcnlf.tga
+gfx/env/arcnrt.tga
+gfx/env/arcnup.tga

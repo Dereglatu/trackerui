@@ -1,0 +1,8 @@
+aim_winter_storage
+Map by Maksovich
+Released: 2011
+Max players: 16x16
+Size: Small
+Textures used: 18
+Detalization: Yes
+Download from csru.ru          

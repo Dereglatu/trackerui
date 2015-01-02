@@ -1,0 +1,13 @@
+jinglebells (v1.0) - Defuse
+by ~Smith~
+
+Counter-terrorists: Prevent the Terrorists
+bombing the house and dance platform.
+
+Terrorists: Destroy house or dance platform.
+
+
+Background: There are 2 bomb sites in this 
+mission.
+
+Other Notes: MADE IN RUSSIA!

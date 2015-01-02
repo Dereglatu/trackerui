@@ -1,0 +1,97 @@
+a - imunitate
+
+b - slot rezervat
+
+c - amx_kick <nume> - il dai afara
+    amx_llama <nume> - dai llama unui jucator
+    amx_unllama <nume> - scoti llama unui jucator care are llama
+    amx_injura <nume> - il injura o femeie (voce)
+    amx_codat <nume> - sperii codatul (voce+motd+mesaj)
+    amx_idiot <nume> - il faci idiot (voce+mesaj)
+    amx_last - arata ultimii 15 jucatori desconectati + ip-urile lor
+    amx_gag <nume> <minute> <motiv> - dai gag unui jucator
+    amx_ungag <nume> - ii scoti gag-ul
+    amx_ss <nume> - faci 3 poze unui jucator + il muti spec
+    amx_tban <nume> <minute> <motiv> - ii dai ban temporar
+    amx_tbanip <ip> <minute> <motiv> - ban temporar pe ip
+			 
+d - amx_ban <nume,ip> <timp> <motiv> - banezi un jucator
+    amx_unban <ip> - scoti banul unui jucator
+    amx_banip <nume,ip> <timp> <motiv> - banezi un jucator
+    amx_addban <ip> <minute> <motiv> - adaugi un jucator la lista de banuri  	
+    amx_demo <nume> - faci demo unui jucator fara sa stie
+    amx_stopdemo <nume> - opresti demo-ul pornit pe un anumit jucator
+    amx_slapteam <1/2> <dmg> - dai slap la 1 echipa
+    amx_slayteam <1/2> - omori 1 echipa
+    amx_flash <nume> - dai blind unui jucator pentru 10 secunde
+	 
+e - amx_slay <nume> - il omori
+    amx_slap <nume> <dmg> - il dai de pereti cu sau fara dmg
+    amx_nick <nume> <nume nou> - ii schimbi numele in ce nume vrei tu
+    amx_name <nume> - ii schimbi numele in alt_nume
+
+f - amx_map <harta> - schimbi harta
+
+g - amx_cvar <cvar> <valoare noua> - schimbi valorea unui cvar
+    amx_extend <minute> - extinzi harta curenta
+    amx_time <minute> - setezi valoarea in minute la timelimit
+    amx_exec <nume> - schimbi/setezi jucatorului anumite binduri
+	
+h - amx_cfg 
+    amx_restmenu - arata meniul pentru restrictionarea armelor
+    amx_restrict - meniu de ajutor pentru restrictionarea armelor
+
+i - amx_chat <mesaj> - doar adminii vad = chatul adminilor 
+    amx_say <mesaj> - arata mesaj chat
+    amx_psay <nume> <mesaj> - arata mesaj privat jucatorului specificat
+    amx_chat <mesaj> - doar Adminii vad = chatul Adminilo  
+    amx_ssay <mesaj> - in chat fara nume doar mesajul
+    amx_bsay <mesaj> - verde stralucitor pe centru, fara nume
+    amx_csay <mesaj> - rosu stralucitor pe centru, cu nume
+    amx_nsay <mesaj> - albastru stralucitor pe centru, cu nume 
+    amx_msay <mesaj> - galben stralucitor pe centru, cu nume
+    amx_vsay <mesaj> - alb pe centru, jos cu nume
+    amx_tsay <mesaj> - stanga, alb cu nume
+    amx_xsay <mesaj> - mov stralucitor pe centru, cu nume
+    amx_zsay <mesaj> - verzui-albastrui inchis - stralucitor pe centru, cu nume
+    amx_help <nr pagina> - arata comenzile serverului (cate 15)
+    amx_maps <nr pagina> - arata hartile serverului (cate 15)
+    amx_clean - cureti chatul
+	
+j - amx_vmap <harta> <harta> <harta> <harta> - dai la vot 1 sau 4 harti
+    amx_votemap <harta> <harta> <harta> <harta> - dai la vot 1 sau 4 harti
+    amx_cancel - anulezi ultimul vot
+
+k - sv_password 
+
+l - amx_rcon - schimbi parola serverului
+    amx_plugins - vezi pluginurile, autorul, etc
+    amx_modules - vezi modulurile, autorul, etc
+ 
+m - level A 
+    amx_bans <nume> <timp> - ban config - ptr cei cu ip dinamic
+    amx_bad <nume> - Ii strici cs-ul unui jucator
+
+n - level B
+    amx_blind <name> -- blind player
+    amx_unblind <nume> -- unblind blinded player
+
+o - level C
+    amx_imm <1/0> - scoti/redai imunitatea la toti de pe server
+    amx_rr <secunde> - dai restart in cate secunde vrei
+
+p - level D
+    amx_move <nume> <1/2/3> - muti fortat un jucator
+    amx_transfer <nume> - transferi un jucator	
+	
+q - level E
+
+r - level F
+
+s - level G
+
+t - level H
+
+u - acces meniu
+
+z - jucator normal

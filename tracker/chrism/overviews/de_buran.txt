@@ -1,0 +1,14 @@
+// overview description file for de_buran.bsp
+
+global 
+{
+	ZOOM	1.43
+	ORIGIN	-711.19		1377.25		-232
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_buran.bmp"
+	HEIGHT	-689
+}

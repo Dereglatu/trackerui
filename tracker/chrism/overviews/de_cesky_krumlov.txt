@@ -1,0 +1,16 @@
+// Overview description file for de_cesky_krumlov.bsp
+
+global
+{
+ZOOM 1.50
+ORIGIN 1024.00 -480.00 336.00
+ROTATED 0
+}
+
+layer
+{
+IMAGE "overviews/de_cesky_krumlov.bmp"
+HEIGHT -353.00
+}
+
+

@@ -1,0 +1,19 @@
+cs_assault_santa - Hostage Rescue
+by Plaxic (Xfire username: plaxic)
+[This is my 10th map] - Created 12/1/07
+
+Based on cs_assault by CryptR (lmuur@dlc.fi)
+
+Changes from cs_assault:
+
+-Snow everywhere outside with snow falling
+-CT Spawn buildings rearranged
+-Small tower above backdoor
+-Area above hostages has vent into hostage room
+-Hostage room is changed and has 2nd level
+-This 2nd level has Christmas tree and presents
+-Area inside warehouse near back door is different
+-Various different textures from normal assault
+-Christmas lights (red/green) in some places
+
+MERRY CHRISTMAS!

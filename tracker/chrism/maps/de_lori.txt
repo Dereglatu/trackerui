@@ -1,0 +1,14 @@
+DE_LORI (BOMB/DEFUSE) by MEGOYDAGI 
+icq 422-898-805
+
+textures:
+
+1.cscz_de_vostok
+2.assasins
+3.halflife
+
+Models and sounds from De_NewYork and De_indust2
+
+Map created 19.10.2010 
+
+PRESS FIRE TO CONTINUE and have FUn!
